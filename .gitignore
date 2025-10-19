@@ -3,3 +3,4 @@ data-puller/data/*
 mcp-example/.venv/*
 .env
 mcp-example
+rag-product/rag-vector/chroma_db/*

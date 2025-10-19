@@ -105,6 +105,28 @@ https://www.youtube.com/watch?v=hbOpLRZvk8w
 
 The application will be accessible at `http://localhost:8501` by default.
 
+### RAG Vector Product
+
+The RAG implementation uses OpenAi APIs to provide intelligent responses based on banking product data.
+
+1. Navigate to the RAG product directory:
+```bash
+cd rag-vector
+```
+
+2. Run the Streamlit application:
+```bash
+streamlit run product-vector-rag.py
+```
+
+3. Usage Demo
+```
+https://www.youtube.com/watch?v=_ViXfKCCFks
+```
+
+
+The application will be accessible at `http://localhost:8501` by default.
+
 ## Usage
 
 ### RAG Product Features
