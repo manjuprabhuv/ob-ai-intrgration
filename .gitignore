@@ -1,0 +1,5 @@
+*.venv/*
+data-puller/data/*
+mcp-example/.venv/*
+.env
+mcp-example

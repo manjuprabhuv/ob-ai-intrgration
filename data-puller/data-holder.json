@@ -1,0 +1,478 @@
+[
+  {
+    "bankName": "AMP - My AMP",
+    "url": "https://api.cdr-api.amp.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "AMP Bank GO",
+    "url": "https://pub.cdr-sme.amp.com.au/api/cds-au/v1"
+  },
+  {
+    "bankName": "ANZ",
+    "url": "https://api.anz/cds-au/v1"
+  },
+  {
+    "bankName": "ANZ Plus",
+    "url": "https://cdr.apix.anz/cds-au/v1"
+  },
+  {
+    "bankName": "Adelaide Bank",
+    "url": "https://api.cdr.adelaidebank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Alex.Bank",
+    "url": "https://public.cdr.alex.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Arab Bank Australia Limited",
+    "url": "https://public.cdr.arabbank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Aussie Home Loans",
+    "url": "https://aussie.openportal.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Australian Military Bank",
+    "url": "https://public.open.australianmilitarybank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Australian Mutual Bank LTD",
+    "url": "https://internetbanking.australianmutual.bank/openbanking/cds-au/v1"
+  },
+  {
+    "bankName": "Australian Unity Bank",
+    "url": "https://open-banking.australianunity.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Auswide Bank Ltd",
+    "url": "https://api.auswidebank.com.au/openbanking/cds-au/v1"
+  },
+  {
+    "bankName": "BCU Bank",
+    "url": "https://public.cdr-api.bcu.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "BNK Bank (Goldfields Money/BCHL)",
+    "url": "https://public.cdr.bnk.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "BOQ Specialist",
+    "url": "https://api.cds.boqspecialist.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Bank Australia",
+    "url": "https://public.cdr.bankaust.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Bank First",
+    "url": "https://public.cdr.bankfirst.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Bank of China",
+    "url": "https://api-gateway.bankofchina.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Bank of Melbourne",
+    "url": "https://digital-api.bankofmelbourne.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Bank of Queensland Limited",
+    "url": "https://api.cds.boq.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Bank of Sydney",
+    "url": "https://openbank.api.banksyd.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Bank of us",
+    "url": "https://api.bankofus.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "BankSA",
+    "url": "https://digital-api.banksa.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "BankVic",
+    "url": "https://ib.bankvic.com.au/openbanking/cds-au/v1"
+  },
+  {
+    "bankName": "Bankwest",
+    "url": "https://open-api.bankwest.com.au/bwpublic/cds-au/v1"
+  },
+  {
+    "bankName": "Bendigo Bank",
+    "url": "https://api.cdr.bendigobank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Beyond Bank Australia",
+    "url": "https://public.cdr.api.beyondbank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Border Bank",
+    "url": "https://public.cdr.prd.borderbank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Broken Hill Bank",
+    "url": "https://public.cdr-api.bhccu.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "CBA - CommBiz",
+    "url": "https://cdr.commbiz.api.commbank.com.au/cbzpublic/cds-au/v1"
+  },
+  {
+    "bankName": "Cairns bank",
+    "url": "https://openbanking.cairnsbank.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "Card Services",
+    "url": "https://api.openbanking.cardservicesdirect.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Central Murray Bank",
+    "url": "https://secure.cmcu.com.au/openbanking/cds-au/v1"
+  },
+  {
+    "bankName": "Central West CUL",
+    "url": "https://ib.cwcu.com.au/openbanking/cds-au/v1"
+  },
+  {
+    "bankName": "Citi",
+    "url": "https://openbanking.api.citi.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Coastline Bank",
+    "url": "https://public.cdr-api.coastline.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Coles Credit Cards",
+    "url": "https://api.openbanking.secure.coles.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "CommBank",
+    "url": "https://api.commbank.com.au/public/cds-au/v1"
+  },
+  {
+    "bankName": "CommFCU",
+    "url": "https://netbank.communityfirst.com.au/cf-OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "Credit Union SA",
+    "url": "https://openbanking.api.creditunionsa.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "DDH Graham",
+    "url": "https://api.cds.ddhgraham.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Darling Downs Bank",
+    "url": "https://openbanking.wcu.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "Defence Bank",
+    "url": "https://product.defencebank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Dnister",
+    "url": "https://public.cdr-api.dnister.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Easy Street",
+    "url": "https://ebranch.easystreet.com.au/es-OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "Family First",
+    "url": "https://public.cdr.familyfirst.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Fire Service Credit Union",
+    "url": "https://public.cdr-api.fscu.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Firefighters Mutual Bank",
+    "url": "https://ob.tmbl.com.au/fmbank/cds-au/v1"
+  },
+  {
+    "bankName": "First Option Bank",
+    "url": "https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "G&C Mutual Bank",
+    "url": "https://ibank.gcmutualbank.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "Gateway Bank",
+    "url": "https://public.cdr-api.gatewaybank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Geelong Bank",
+    "url": "https://online.geelongbank.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "Great Southern Bank",
+    "url": "https://api.open-banking.greatsouthernbank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Great Southern Bank Business+",
+    "url": "https://od1.open-banking.business.greatsouthernbank.com.au/api/cds-au/v1"
+  },
+  {
+    "bankName": "Greater Bank Limited",
+    "url": "https://public.cdr.greater.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "HSBC",
+    "url": "https://public.ob.hsbc.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "HSBC Bank Australia Limited – Wholesale Banking",
+    "url": "https://public.ob.business.hsbc.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Health Professionals Bank",
+    "url": "https://ob.tmbl.com.au/hpbank/cds-au/v1"
+  },
+  {
+    "bankName": "Heartland",
+    "url": "https://api.cdr.heartlandbank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Heritage Bank. Please do not use, please use People’s Choice.",
+    "url": "https://product.api.heritage.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Horizon Bank",
+    "url": "https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1"
+  },
+  {
+    "bankName": "Hume Bank",
+    "url": "https://ibankob.humebank.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "IMB Bank",
+    "url": "https://openbank.openbanking.imb.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "ING BANK (Australia) Ltd",
+    "url": "https://id.ob.ing.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Judo Bank",
+    "url": "https://public.open.judo.bank/cds-au/v1"
+  },
+  {
+    "bankName": "Kogan Money Credit Cards",
+    "url": "https://api.openbanking.cards.koganmoney.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Laboratories Credit Union",
+    "url": "https://internetbanking.lcu.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "Liberty Financial",
+    "url": "https://services.liberty.com.au/api/data-holder-public/cds-au/v1"
+  },
+  {
+    "bankName": "ME Bank",
+    "url": "https://public.openbank.mebank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "ME Bank - ME Go",
+    "url": "https://api.cds.mebank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "MOVE Bank",
+    "url": "https://openbanking.movebank.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "Macquarie Bank Limited",
+    "url": "https://api.macquariebank.io/cds-au/v1"
+  },
+  {
+    "bankName": "Maitland Mutual Limited",
+    "url": "https://openbanking.themutual.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "MyState Bank",
+    "url": "https://public.cdr.mystate.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "NATIONAL AUSTRALIA BANK",
+    "url": "https://openbank.api.nab.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Newcastle Permanent Building Society",
+    "url": "https://openbank.newcastlepermanent.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Northern Inland Credit Union Limited",
+    "url": "https://secure.nicu.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "ORANGE CREDIT UNION LTD",
+    "url": "https://online.orangecu.com.au/openbanking/cds-au/v1"
+  },
+  {
+    "bankName": "P&N Bank",
+    "url": "https://public.cdr-api.pnbank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "PayPal Australia",
+    "url": "https://api.paypal.com/v1/identity/cds-au/v1"
+  },
+  {
+    "bankName": "People's Choice",
+    "url": "https://ob-public.peopleschoice.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Police Bank",
+    "url": "https://public.cdr.prd.policebank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Police Credit Union Ltd",
+    "url": "https://api.policecu.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "QBANK",
+    "url": "https://banking.qbank.com.au/openbanking/cds-au/v1"
+  },
+  {
+    "bankName": "Qantas Money Credit Cards",
+    "url": "https://api.openbanking.qantasmoney.com/cds-au/v1"
+  },
+  {
+    "bankName": "Qudos Bank",
+    "url": "https://public.cdr.qudosbank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Queensland Country Bank",
+    "url": "https://public.cdr-api.queenslandcountry.bank/cds-au/v1"
+  },
+  {
+    "bankName": "RACQ Bank",
+    "url": "https://cdrbank.racq.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "RAMS Financial Group Pty Ltd",
+    "url": "https://digital-api.westpac.com.au/rams/cds-au/v1"
+  },
+  {
+    "bankName": "RSL Money",
+    "url": "https://public.open.rslmoney.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Rabobank",
+    "url": "https://openbanking.api.rabobank.com.au/public/cds-au/v1"
+  },
+  {
+    "bankName": "Regional Australia Bank",
+    "url": "https://public-data.cdr.regaustbank.io/cds-au/v1"
+  },
+  {
+    "bankName": "Reliance Bank",
+    "url": "https://ibanking.reliancebank.com.au/rel-openbanking/cds-au/v1"
+  },
+  {
+    "bankName": "SWSbank",
+    "url": "https://online.swsbank.com.au/openbanking/cds-au/v1"
+  },
+  {
+    "bankName": "Solo by MYOB",
+    "url": "https://od1.open-banking.myob.greatsouthernbank.com.au/api/cds-au/v1"
+  },
+  {
+    "bankName": "Southern Cross Credit Union",
+    "url": "https://cdr.sccu.com.au/openbanking/cds-au/v1"
+  },
+  {
+    "bankName": "St.George Bank",
+    "url": "https://digital-api.stgeorge.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Summerland Bank",
+    "url": "https://public.cdr-api.summerland.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Suncorp Bank",
+    "url": "https://id-ob.suncorpbank.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "TMCU",
+    "url": "https://banking.transportmutual.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "Teachers Mutual Bank",
+    "url": "https://ob.tmbl.com.au/tmbank/cds-au/v1"
+  },
+  {
+    "bankName": "The Capricornian",
+    "url": "https://public.cdr.onlinebanking.capricornian.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "The Mac",
+    "url": "https://onlinebanking.themaccu.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "Thriday",
+    "url": "https://public.cdr.thriday.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Traditional Credit Union",
+    "url": "https://prd.tcu.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Tyro Banking",
+    "url": "https://od1.cdr.banking.tyro.com/api/cds-au/v1"
+  },
+  {
+    "bankName": "Tyro Payments",
+    "url": "https://public.cdr.tyro.com/cds-au/v1"
+  },
+  {
+    "bankName": "UBank",
+    "url": "https://public.cdr-api.86400.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "UniBank",
+    "url": "https://ob.tmbl.com.au/unibank/cds-au/v1"
+  },
+  {
+    "bankName": "Unity Bank",
+    "url": "https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "Unloan",
+    "url": "https://public.api.cdr.unloan.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Up",
+    "url": "https://api.up.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Virgin Money",
+    "url": "https://api.cds.virginmoney.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Westpac",
+    "url": "https://digital-api.westpac.com.au/cds-au/v1"
+  },
+  {
+    "bankName": "Wise",
+    "url": "https://au-cdrbanking-pub.wise.com/cds-au/v1"
+  },
+  {
+    "bankName": "Woolworths Team Bank",
+    "url": "https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "bankWAW",
+    "url": "https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "gmcu",
+    "url": "https://secure.gmcu.com.au/OpenBanking/cds-au/v1"
+  },
+  {
+    "bankName": "in1bank ltd.",
+    "url": "https://cdr.in1bank.com.au/cds-au/v1"
+  }
+]
